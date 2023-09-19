@@ -1,0 +1,43 @@
+h1{
+    font-size: 75px;
+    color: lightgreen;
+}
+*{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+}
+.cdz{
+    height: 30px;
+    width: 160px;
+    background-color: white;
+    border-radius: 10px;
+    border: 0px;
+    margin-bottom: 5px;
+    color: lightgray;
+}
+.rest{
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+    height: 90 px;
+    width: 160px;
+    border-radius: 10px;
+    margin: 0px;
+    
+}
+p{
+
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    height: 30px;
+    border-top: 1px solid gray;
+    width: 160px;
+    border-radius: 10px;
+}
+s{
+    background-color: white;
+}
